@@ -1,0 +1,9 @@
+{
+"epochs" : 5,
+"batch_size" : 1,
+"input_dim" : 256,
+"learning_rate_alpha_gen" : 3e-4,
+"learning_rate_alpha_dis" : 1e-4,
+"learning_rate_beta_gen" : 0.5,
+"levels" : [0.01,0.025,0.05,0.075,0.1]
+}

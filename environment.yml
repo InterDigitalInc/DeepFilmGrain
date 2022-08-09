@@ -1,0 +1,13 @@
+name: example-environment
+
+dependencies:
+  - tensorflow-gpu=2.2 
+  - cudatoolkit=10.1 
+  - cudnn=7.6 
+  - python=3.8 
+  - pip=20.0
+  - imageio
+  - matplotlib
+  - numpy
+  - pillow
+  - scikit-image
